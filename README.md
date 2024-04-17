@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Monotirg?theme=dark&font=Montserrat&ext=heatmap&animation=false)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Monotirg?theme=dark&font=Montserrat&ext=heatmap&animation=false?border=0&radius=20)
 
 <!--
 **Monotirg/Monotirg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
